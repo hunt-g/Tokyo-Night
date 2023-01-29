@@ -1,4 +1,4 @@
-@media screen and (min-width: 601px) and (max-width: 1920px) {
+@media screen and (min-width: 401px) and (max-width: 1920px) {
   /* Minimize channels sidebar */
   .wrapper-1_HaEi.guilds-2JjMmN[aria-label] {
     z-index: 30 !important;
@@ -64,7 +64,7 @@
 }
 
 /* Very Compact (chat only) */
-@media screen and (min-width: 0px) and (max-width: 600px) {
+@media screen and (min-width: 0px) and (max-width: 400px) {
   .panels-3wFtMD  { position: fixed; bottom: -999px; }
   .chat-2ZfjoI { margin-left: 0px; }
   .sidebar-1tnWFu { width: 0px; }

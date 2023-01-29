@@ -16,18 +16,18 @@
 .sectionTitle-3j2YI1 h1,
 .alignCenter-14kD11 h1 {
   font-style: italic;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 /* Server Name */
 .header-3OsQeK .name-3Uvkvr {
   font-style: italic;
-  font-weight: 500;
+  font-weight: 300;
 }
 
 /* Category Name */
 .name-3BUDLf.container-q97qHp .overflow-1wOqNV {
-  font-weight: 600;
+  font-weight: 400;
 }
 
 /* Username on userpopout */
@@ -37,7 +37,7 @@
 .headerTagUsernameNoNickname-1TjuLc,
 .headerTagDiscriminatorNoNickname-dfcvHa {
   font-style: italic;
-  font-weight: 500;
+  font-weight: 300;
 }
 
 /* Link text */
@@ -49,6 +49,6 @@
 .compact-2Nkcau .timestamp-p1Df1m,
 .cozy-VmLDNB .timestamp-p1Df1m {
   font-style: italic;
-  font-weight: 500;
+  font-weight: 300;
   font-size: 0.7rem;
 }

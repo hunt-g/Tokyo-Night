@@ -1,7 +1,7 @@
-@media screen and (min-width: 601px) and (max-width: 920px) {
+@media screen and (min-width: 601px) and (max-width: 1920px) {
   /* Minimize channels sidebar */
   .wrapper-1_HaEi.guilds-2JjMmN[aria-label] {
-    z-index: 30 !important; 
+    z-index: 30 !important;
   }
 
   .base-2jDfDU .sidebar-1tnWFu {

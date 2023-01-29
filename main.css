@@ -975,7 +975,7 @@ button[aria-label="Send a gift"],
 .discordMemberCreatedAt-31OkT7 > .discordMemberCreatedAtText-15sN5q > h3 {
   font-size: 16px;
   font-family: inherit;
-  font-weight: 600;
+  font-weight: 400;
   user-select: text;
 }
 
@@ -991,5 +991,5 @@ button[aria-label="Send a gift"],
 [title^="https://canary.discord.com/channels/"]::before {
   content: "Jump to Message";
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 300;
 }
